@@ -2,6 +2,8 @@
 
 > Intelligent Web3 signal analysis, RL-based trading, and vault management for decentralized finance.
 
+> Contributors - Abhishek Thormothe | Om Bhojane | Aadit Suryawanshi
+
 ## 📋 Table of Contents
 
 - [Problem Statement](#problem-statement)
